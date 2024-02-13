@@ -2,7 +2,7 @@
 
 int main() {
     std::cout << "Age: \n";
-
+    
     int age;
     std::cin >> age;
     
